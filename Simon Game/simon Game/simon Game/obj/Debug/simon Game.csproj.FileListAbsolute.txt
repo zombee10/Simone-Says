@@ -1,0 +1,9 @@
+\\phmschools.org\shares\PHS\HomeFolders\Students\2018\jmonnin70\Desktop\C#\Basic Tutorials\Simon Game\simon Game\simon Game\bin\Debug\simon Game.exe.config
+\\phmschools.org\shares\PHS\HomeFolders\Students\2018\jmonnin70\Desktop\C#\Basic Tutorials\Simon Game\simon Game\simon Game\bin\Debug\simon Game.exe
+\\phmschools.org\shares\PHS\HomeFolders\Students\2018\jmonnin70\Desktop\C#\Basic Tutorials\Simon Game\simon Game\simon Game\bin\Debug\simon Game.pdb
+\\phmschools.org\shares\PHS\HomeFolders\Students\2018\jmonnin70\Desktop\C#\Basic Tutorials\Simon Game\simon Game\simon Game\obj\Debug\simon Game.csprojResolveAssemblyReference.cache
+\\phmschools.org\shares\PHS\HomeFolders\Students\2018\jmonnin70\Desktop\C#\Basic Tutorials\Simon Game\simon Game\simon Game\obj\Debug\simon_Game.frmSimon.resources
+\\phmschools.org\shares\PHS\HomeFolders\Students\2018\jmonnin70\Desktop\C#\Basic Tutorials\Simon Game\simon Game\simon Game\obj\Debug\simon_Game.Properties.Resources.resources
+\\phmschools.org\shares\PHS\HomeFolders\Students\2018\jmonnin70\Desktop\C#\Basic Tutorials\Simon Game\simon Game\simon Game\obj\Debug\simon Game.csproj.GenerateResource.Cache
+\\phmschools.org\shares\PHS\HomeFolders\Students\2018\jmonnin70\Desktop\C#\Basic Tutorials\Simon Game\simon Game\simon Game\obj\Debug\simon Game.exe
+\\phmschools.org\shares\PHS\HomeFolders\Students\2018\jmonnin70\Desktop\C#\Basic Tutorials\Simon Game\simon Game\simon Game\obj\Debug\simon Game.pdb
